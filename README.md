@@ -1,2 +1,8 @@
-# ex-notification-center-uikit-project
-시스템 노티피케이션을 UIKit에서 구현하는 방법을 연습합니다. (⭐️미완)
+# Ex-NotificationCenter-UIKit-Project
+## 🍎Overview
+`프로젝트` Ex-NotificationCenter-UIKit-Project <br>
+`게시일자` 2024년 2월 16일(금) <br>
+
+## 👩🏻‍💻Reference
+
+* J.D Gauchat, ⌜UIKit for Masterminds(iOS15)⌟, P.597~601
